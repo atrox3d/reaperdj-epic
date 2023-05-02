@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1683016510
+<REAPER_PROJECT 0.1 "6.68/win64" 1683016703
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 3.13233168874148 0 0
+  CURSOR 120.33565423714384
+  ZOOM 3.27840841366825 0 0
   VZOOMEX 12 0
   USE_REC_CFG 0
   RECMODE 1
@@ -59,8 +59,8 @@
   GLOBAL_AUTO -1
   TEMPO 87 4 4
   PLAYRATE 1 1 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 279.38825022886613 337.50647202107075
+  SELECTION2 279.38825022886613 337.50647202107075
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -202,7 +202,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -216,7 +216,7 @@
     <ITEM
       POSITION 5.28
       SNAPOFFS 0
-      LENGTH 295.997
+      LENGTH 0.23724137931035
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -236,6 +236,462 @@
         FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
       >
     >
+    <ITEM
+      POSITION 5.51724137931035
+      SNAPOFFS 0
+      LENGTH 11.08372129025062
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521664 R
+      SEL 0
+      IGUID {6F21E367-8016-4D25-B4B0-C88A3735CDDF}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.23724137931035
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {931FAF4D-6F0D-4FB5-BD41-4A9585FBE9C8}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 16.60096266956097
+      SNAPOFFS 0
+      LENGTH 22.08643786771561
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {207CA888-478E-4524-8709-604EB277AFD0}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.32096266956097
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18781D80-5DA5-46F8-93AD-3AC3BE1371A1}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 38.68740053727657
+      SNAPOFFS 0
+      LENGTH 11.08372129025062
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {86B8D124-DFE5-4936-B105-3E9E7646CE51}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.40740053727657
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {928BD50A-B955-4EC8-8474-0BA6F0F79730}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 49.7711218275272
+      SNAPOFFS 0
+      LENGTH 11.05783061651903
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {06F4B3CC-F026-4FF7-A354-E3123ECB0C75}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 44.49112182752719
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0191B98E-6D15-4026-9E45-B25BDD25035B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 60.82895244404622
+      SNAPOFFS 0
+      LENGTH 8.31279096768797
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {4FD02E59-3775-40C3-B717-C964E0AA6332}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 55.54895244404622
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFB3E1B8-3208-4150-9241-D04FD4822140}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 69.1417434117342
+      SNAPOFFS 0
+      LENGTH 2.77093032256265
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {77BB48E5-FC2F-4EAE-8042-45DB11F81A5E}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 63.8617434117342
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99F42452-AC41-4E35-9BD1-AA6CC230CE1A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 71.91267373429685
+      SNAPOFFS 0
+      LENGTH 8.28721814593555
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {EADA4DDB-08E6-4665-86D3-750691A2CA84}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 66.63267373429684
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9089C3E7-F249-4614-AAC1-45004C8AEEDE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 80.1998918802324
+      SNAPOFFS 0
+      LENGTH 2.77093032256266
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {50198C63-C098-4266-A9C9-1993135879E6}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 74.9198918802324
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC784804-6834-4DD1-9D10-C284765BED53}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 82.97082220279506
+      SNAPOFFS 0
+      LENGTH 11.05100155315716
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {3331E903-A30D-4008-AC92-C78F3006FF2B}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 77.69082220279506
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3754238A-210D-4C93-B8A0-8019780F17CE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 94.02182375595223
+      SNAPOFFS 0
+      LENGTH 8.31279096768797
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {8AF1E17E-5AFD-41E5-A427-6E9A641DA976}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 88.74182375595223
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BCB6FEA5-64BB-460C-AFFC-9752E44EB560}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 102.3346147236402
+      SNAPOFFS 0
+      LENGTH 2.79300677254413
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {9E4774CA-2AC6-4978-9D2C-D7A6857A6B4E}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 97.0546147236402
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {51D21806-00D5-4AAE-A064-C9D9B481C8E4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 105.12762149618433
+      SNAPOFFS 0
+      LENGTH 8.28070693455287
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {D3CE5FEA-7762-499B-B804-F3823C81FC35}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 99.84762149618433
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05C3AA6B-26F1-41A0-B6A0-58643DA21013}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 113.4083284307372
+      SNAPOFFS 0
+      LENGTH 11.08372129025062
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {FFA59EEA-AFAE-49BF-947B-BE301E3FBE50}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 108.1283284307372
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48B5A5FD-766B-4FDF-BAF4-52E292E3BA75}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 124.49204972098782
+      SNAPOFFS 0
+      LENGTH 44.22926118240197
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489024 R
+      SEL 0
+      IGUID {362573D1-21B9-43ED-A382-38AC1F811A0E}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 119.21204972098782
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA74AA78-2932-482A-AFC6-04F4734D2699}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 168.72131090338979
+      SNAPOFFS 0
+      LENGTH 11.08372129025062
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {2CE0CD8A-2A03-48FE-876C-BEB11474C814}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 163.44131090338979
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CD92D42-A8F3-48C4-8D0F-C48987D78537}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 179.80503219364041
+      SNAPOFFS 0
+      LENGTH 22.13964479489459
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {50EDD808-1BB7-4184-998A-84B5CF19BBFF}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 174.52503219364041
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA3BD616-ED67-4F96-9ECB-3C6626662D69}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 201.94467698853501
+      SNAPOFFS 0
+      LENGTH 44.25133763238344
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {A58A083A-2349-418C-A233-950D95692B61}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 196.66467698853501
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD78D46A-C68E-41A3-B157-2522C5B73CBA}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 246.19601462091845
+      SNAPOFFS 0
+      LENGTH 33.19223560794768
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521664 R
+      SEL 0
+      IGUID {DACB2826-8D65-4DA0-9561-0AAFAAE84C04}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 240.91601462091845
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F56BA0C2-4100-4A08-9032-B8F9F22CF733}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 279.38825022886613
+      SNAPOFFS 0
+      LENGTH 21.88874977113386
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521792 R
+      SEL 1
+      IGUID {80B5C0B4-C031-4843-AD63-EBCFC7DB0F1E}
+      IID 2
+      NAME "epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 274.10825022886615
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3337029-8B0E-41AE-A0F3-683D919461DE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\epic-guitarless-drums-E minor-87bpm-443hz.m4a"
+      >
+    >
   >
   <TRACK {BED8640A-0126-4982-8FF1-D1BE4421D1B4}
     NAME HINTS
@@ -249,7 +705,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -620,7 +1076,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {0D456BC9-CA9D-4566-8117-0F38B337FE5D}
       IID 11
       NAME "untitled MIDI item"
